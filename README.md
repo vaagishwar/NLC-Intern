@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <b>Vaagishwar (Vaagii)</b> × <b>Apsar</b><br>
+  <b>Vaagishwar        </b> × <b>Apsar</b><br>
   Team Project • Web Development Internship
 </p>
