@@ -11,16 +11,10 @@
          width="100" />
   </a>
 </p>
+
 # NLC Internship Web Project
 
-## Overview
-
-This repository contains a web application developed during an internship program.  
-The project was built as a team effort and focuses on creating a functional, interactive web application using standard web technologies and a Node.js backend.
-
-The goal of this project is to demonstrate practical knowledge of web development, collaboration using GitHub, and a deployment-ready project structure.
-
----
+This repository contains a web application developed during an internship program. The project was built as a team effort and focuses on creating a functional, interactive web application using standard web technologies and a Node.js backend. It demonstrates practical knowledge of web development, collaborative GitHub workflows, and a deployment-ready project structure.
 
 ## Team
 
@@ -37,26 +31,77 @@ The goal of this project is to demonstrate practical knowledge of web developmen
 </p>
 
 <p align="center">
-  <b>Vaagishwar</b> × <b>Apsar</b><br>
+  <b>Vaagishwar</b> & <b>Apsar</b><br>
   Internship Team Project
 </p>
 
----
-
 ## Technology Stack
 
-The following technologies and tools were used in this project:
-
-- HTML for structuring web pages
-- CSS for styling and layout
-- JavaScript for client-side functionality
-- Node.js for server-side execution
-- npm for dependency management
-- SQL (reference schema included)
-- Git and GitHub for version control and collaboration
-
----
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js  
+- npm  
+- SQL  
+- Git & GitHub  
 
 ## Project Structure
 
+```
+NLC-Intern/
+├── .vscode/
+├── google_transulation_for_reference/
+├── node_modules/
+├── public/
+├── .env
+├── README.md
+├── basics.txt
+├── neyveli_eboard.sql
+├── nlc logo.jpg
+├── package-lock.json
+├── package.json
+├── server.js
+└── transulation_idea.png
+```
 
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vaagishwar/NLC-Intern.git
+   ```
+2. Change to the project directory:
+   ```bash
+   cd NLC-Intern
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+   Or:
+   ```bash
+   node server.js
+   ```
+
+## Deployment
+
+You can deploy this Node.js application on platforms like Vercel, Render, or Heroku. Configure environment variables from the `.env` file if required and follow the hosting provider’s deployment steps.
+
+## Contributing
+
+1. Fork the repository  
+2. Create a new branch  
+3. Make your changes  
+4. Commit and push your branch  
+5. Open a pull request  
+
+## Fork & Star
+
+If you find this project useful, consider supporting it:
+
+- Fork: https://github.com/vaagishwar/NLC-Intern/fork  
+- Star: https://github.com/vaagishwar/NLC-Intern/stargazers
