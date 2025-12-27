@@ -11,8 +11,3 @@
          width="100" />
   </a>
 </p>
-
-<p align="center">
-  <b>Vaagishwar        </b> × <b>Apsar</b><br>
-  Team Project • Web Development Internship
-</p>
